@@ -29,7 +29,7 @@ Upon completion of the simulation, a comprehensive set of statistics is provided
 
 ## Acknowledgments
 
-This project is developed as the final project in the cource CS-A1123 Basics in Programming Y2 at Aalto University in 2023. The responsible teacher for the course was Sanna Suoranta, and the project advisor was Mondal Shubham.
+This project is developed as the final project in the cource CS-A1121 Basics in Programming Y2 at Aalto University in 2023. The responsible teacher for the course was Sanna Suoranta, and the project advisor was Mondal Shubham.
 
 ## Licence
 This project is licensed under the terms of the MIT license. It can be found in the file LICENSE.txt.
