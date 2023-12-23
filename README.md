@@ -6,8 +6,8 @@ Each individual in the simulation is an AI agent with randomly generated attribu
 
 Upon completion of the simulation, a comprehensive set of statistics is provided, which includes counts of the dead, infected, recovered, vaccinated, and cured, as well as various rates like mortality, infection, recovery, vaccination, and cured rates. The simulation data is automatically saved to an external file that is updated with each simulation run.
 
-## File and Directory Structure
-- The repository is divided into a file containing the program's code and a file containing the project documents. The technical document, in particular, can be consulted for a better understanding of the simulation's mechanics.
+## Directory Structure
+- The repository is divided into a directory containing the program's code and a directory containing the project documents. The technical document, in particular, can be consulted for a better understanding of the simulation's mechanics.
 
 ## Properties of the Simulation
 - Customizable input parameters for simulating various population and disease scenarios.
